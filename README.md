@@ -286,8 +286,7 @@ Enter the options and continue.
 
 ## Social Media :mailbox_with_no_mail:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/lrbilool)
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+##### https://mp.weixin.qq.com/s?__biz=Mzg4OTAzMzU2OQ==&mid=2247485783&idx=1&sn=a9b8d22516d17e203c5bca34138bab0c&chksm=cff34f59f884c64f9f97d19cb39249c8f4ec7537c1414e7f75674b6defc99ddffb9ab2322e5c&token=361697338&lang=zh_CN#rd
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
