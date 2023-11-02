@@ -285,7 +285,6 @@ Enter the options and continue.
 - [ ] Want to do automatic 
 
 ## Social Media :mailbox_with_no_mail:
-[![Telgram](https://t.me/LrBIDevzz](https://t.me/LrBIDevzz))](https://twitter.com/_Zinzu07)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
 ##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
 ![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
